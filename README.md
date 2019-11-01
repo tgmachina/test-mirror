@@ -1,5 +1,4 @@
 # test-mirror
-test gitlab mirroring
-
-test info
-more test info
+test mirroring
+test mirroring more
+test mirroring even more
