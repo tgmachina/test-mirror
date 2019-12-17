@@ -3,3 +3,5 @@ test gitlab mirroring
 
 foobarbaz
 foobarbaz
+
+new protected changes
