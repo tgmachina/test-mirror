@@ -4,4 +4,4 @@ test gitlab mirroring
 foobarbaz
 foobarbaz
 
-new protected changes
+more new protected changes
