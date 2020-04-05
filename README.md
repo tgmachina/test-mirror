@@ -1,3 +1,3 @@
 # test-mirror
 
-bal
+bal lab bal lab
