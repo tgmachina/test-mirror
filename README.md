@@ -1,4 +1,4 @@
 # test-mirror
 
 bal lab bal lab bal
-lab
+lab bal
