@@ -1,3 +1,3 @@
 # test-mirror
 
-BAM BAM
+simple bam
