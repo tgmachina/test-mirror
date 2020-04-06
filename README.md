@@ -1,3 +1,3 @@
 # test-mirror
 
-bar
+BAR
