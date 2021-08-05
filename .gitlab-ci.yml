@@ -1,0 +1,10 @@
+stages:
+  - build
+
+test-build:
+  stage: build
+  tags:
+    - catalyst
+    - shell
+  script:
+    - echo "hello"
