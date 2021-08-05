@@ -1,5 +1,5 @@
 stages:
- - build
+  - build
 
 test-build:
   stage: build
@@ -7,4 +7,4 @@ test-build:
     - catalyst
     - shell
   script:
-		- echo "hello"
+    - echo "hello"
